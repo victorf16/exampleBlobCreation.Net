@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/* Creating Scripts Container IN azure Storage account */
+/* upload file sql to Container IN azure Storage account */
 
 using Azure.Storage.Blobs;
 using Azure.Storage.Blobs.Models;
